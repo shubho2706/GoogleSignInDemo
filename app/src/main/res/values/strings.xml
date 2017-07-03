@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleSignInDemo</string>
+    <string name="email_input">Provide email ID: </string>
+    <string name="pass_input">Provide password: </string>
+</resources>

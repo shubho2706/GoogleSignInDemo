@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124260954851",
+    "firebase_url": "https://fir-demosignin.firebaseio.com",
+    "project_id": "fir-demosignin",
+    "storage_bucket": "fir-demosignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124260954851:android:1d069af7096bf542",
+        "android_client_info": {
+          "package_name": "com.example.shubham.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124260954851-6hrk4hg5qhsml846t0rh842glnrjor6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubham.googlesignindemo",
+            "certificate_hash": "4c4aceb984f06ee7bd2dc3236098feec1ed8d12d"
+          }
+        },
+        {
+          "client_id": "124260954851-5udgavicnhm9jpct4fsn12b272e8rnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiu4E6vCR2laRhEACssN3ogvZvB0xvG6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124260954851-5udgavicnhm9jpct4fsn12b272e8rnqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
